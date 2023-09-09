@@ -1,0 +1,6 @@
+.idea
+*.exe
+cpp/*/.idea
+cpp/*/cmake-build-debug
+cpp/*/.vscode
+cpp/*/*.exe
