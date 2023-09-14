@@ -11,4 +11,4 @@
 
 [LeetCode2596 | C++](./cpp/LeetCode2596/main.cpp)    *暴力解法*
 
-[LeetCode1222 | C++](./cpp/LeetCode1222/main.cpp)   *递归解法*
+[LeetCode1222 | C++](./cpp/LeetCode1222/main.cpp)
