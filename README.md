@@ -17,3 +17,5 @@
 
 [LeetCode1029 | C++](./cpp/LeetCode1029/main.cpp)
   - 思路：先计算出都去B点所需要的钱，在找出花费最少的总人数一半的人去A点，剩下的人继续区B点。计算求和即可
+
+[LeetCode1232 | C++](./cpp/LeetCode1232/main.cpp)
