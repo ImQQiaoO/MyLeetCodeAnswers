@@ -29,3 +29,5 @@
     5. 举例推导dp数组
 
 [LeetCode70 | C++](./cpp/LeetCode70/main.cpp)   （爬楼梯）
+
+[LeetCode746 | C++](./cpp/LeetCode746/main.cpp)   （进阶爬楼梯）

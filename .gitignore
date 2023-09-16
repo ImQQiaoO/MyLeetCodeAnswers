@@ -5,3 +5,5 @@ cpp/*/.idea
 cpp/*/cmake-build-debug
 cpp/*/.vscode
 cpp/*/*.exe
+cpp/*/.vs
+cpp/*/out
