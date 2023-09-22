@@ -33,3 +33,7 @@
 [LeetCode746 | C++](./cpp/LeetCode746/main.cpp)   （进阶爬楼梯）
 
 [LeetCodeLCP06 | C++](./cpp/LeetCodeLCP06/main.cpp)
+
+[LeetCode2591 | C++](./cpp/LeetCode2591/main.cpp)
+
+[LeetCode66 | C++](./cpp/LeetCode66/main.cpp)
