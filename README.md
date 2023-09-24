@@ -37,3 +37,6 @@
 [LeetCode2591 | C++](./cpp/LeetCode2591/main.cpp)
 
 [LeetCode66 | C++](./cpp/LeetCode66/main.cpp)
+
+[LeetCode146 | C++](./cpp/LeetCode146/main.cpp)
+    - 用到了双向链表，哈希表（unordered_map）
