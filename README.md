@@ -40,3 +40,7 @@
 
 [LeetCode146 | C++](./cpp/LeetCode146/main.cpp)
     - 用到了双向链表，哈希表（unordered_map）
+
+[LeetCode1920 | C++](./cpp/LeetCode1920/main.cpp)
+[LeetCode1920 | Python](./python/LeetCode1920/main.py)
+    - 最简单

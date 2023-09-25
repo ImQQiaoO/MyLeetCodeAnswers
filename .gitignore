@@ -7,3 +7,5 @@ cpp/*/.vscode
 cpp/*/*.exe
 cpp/*/.vs
 cpp/*/out
+python/*/.idea
+python/*/venv
