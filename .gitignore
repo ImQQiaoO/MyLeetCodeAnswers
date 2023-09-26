@@ -9,3 +9,4 @@ cpp/*/.vs
 cpp/*/out
 python/*/.idea
 python/*/venv
+main
