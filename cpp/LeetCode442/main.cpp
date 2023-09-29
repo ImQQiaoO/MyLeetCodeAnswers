@@ -35,7 +35,7 @@ public:
         return nums;
     }
 
-    vector<int> findDuplicates(vector<int> &nums) {    // 超时
+    vector<int> findDuplicates(vector<int> &nums) {
         sort(nums.begin(), nums.end());
         auto iter = nums.begin() + 1;
         auto tail = nums.end();
