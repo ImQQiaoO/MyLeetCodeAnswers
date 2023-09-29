@@ -51,3 +51,8 @@
 [LeetCode2582 | C++](./cpp/LeetCode2582/main.cpp)
 
 [LeetCode2582 | Python](./python/LeetCode2582/main.py)
+
+[LeetCode442 | C++](./cpp/LeetCode442/main.cpp)
+
+[LeetCode605 | C++](./cpp/LeetCode605/main.cpp)
+ - 花坛种花问题
