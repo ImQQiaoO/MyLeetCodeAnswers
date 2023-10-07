@@ -59,3 +59,6 @@
 
 [LeetCode121 | C++](./cpp/LeetCode121/main.cpp)
  - 买卖股票的最佳时机
+
+[LeetCode1566 | C++](./cpp/LeetCode1566/main.cpp)
+ - 寻找数组中重复且连续的子数组
