@@ -62,3 +62,6 @@
 
 [LeetCode1566 | C++](./cpp/LeetCode1566/main.cpp)
  - 寻找数组中重复且连续的子数组
+
+[LeetCode2578 | C++](./cpp/LeetCode2578/main.cpp)
+ - 拆分数字，求两数之和
