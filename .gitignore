@@ -2,6 +2,7 @@
 .vscode
 .vs
 *.exe
+build
 cpp/*/.idea
 cpp/*/cmake-build-debug
 cpp/*/.vscode
