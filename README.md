@@ -78,3 +78,6 @@
 
 [LeetCode2652 | C++](./cpp/LeetCode2652/main.cpp)
  - 给你一个正整数 n ，请你计算在 [1，n] 范围内能被 3、5、7 整除的所有整数之和。
+
+[LeetCode2525 | C++](./cpp/LeetCode2525/main.cpp)
+ - 根据规则将箱子分类
