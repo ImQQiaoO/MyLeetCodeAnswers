@@ -81,3 +81,6 @@
 
 [LeetCode2525 | C++](./cpp/LeetCode2525/main.cpp)
  - 根据规则将箱子分类
+
+[LeetCode2678 | C++](./cpp/LeetCode2678/main.cpp)
+ - 签到题
