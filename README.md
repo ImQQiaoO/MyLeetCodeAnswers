@@ -84,3 +84,6 @@
 
 [LeetCode2678 | C++](./cpp/LeetCode2678/main.cpp)
  - 签到题
+
+[LeetCode2520 | C++](./cpp/LeetCode2520/main.cpp)
+ - 签到题 +1
