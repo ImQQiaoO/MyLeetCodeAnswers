@@ -87,3 +87,6 @@
 
 [LeetCode2520 | C++](./cpp/LeetCode2520/main.cpp)
  - 签到题 +1
+
+[LeetCode1465 | C++](./cpp/LeetCode1465/main.cpp)
+ - 切蛋糕
