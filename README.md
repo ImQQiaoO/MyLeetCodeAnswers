@@ -90,3 +90,6 @@
 
 [LeetCode1465 | C++](./cpp/LeetCode1465/main.cpp)
  - 切蛋糕
+
+[LeetCode2558 | C++](./cpp/LeetCode2558/main.cpp)
+ - 返回在 k 秒后剩下的礼物数量
