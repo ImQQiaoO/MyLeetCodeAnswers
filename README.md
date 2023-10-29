@@ -93,3 +93,6 @@
 
 [LeetCode2558 | C++](./cpp/LeetCode2558/main.cpp)
  - 返回在 k 秒后剩下的礼物数量
+
+[LeetCode274 | C++](./cpp/LeetCode274/main.cpp)
+ - H 指数
