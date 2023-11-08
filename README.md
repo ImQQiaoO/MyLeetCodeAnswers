@@ -98,7 +98,7 @@
  - H 指数
 
 [LeetCodeLCP17 | C++](./cpp/LCP17/main.cpp)
-- H 指数
+- 签到题
 
 [LeetCode2103 | C++](./cpp/LeetCode2103/main.cpp)
 - 环和杆，使用``map``
@@ -110,3 +110,10 @@
 
 [LeetCode2586 | C++](./cpp/LeetCode2586/main.cpp)
  - 签到题
+
+[LeetCode2609 | C++](./cpp/LeetCode2609/main.cpp)
+ - 最长平衡子字符串
+  
+滑动窗口：
+1. 当不满足条件时，拓展右边界，当满足条件时，缩短左边界，最后得到一个解并暂存
+2. 循环第一步，又得到一个解，将其与第一个解相对比，得到最优解并暂存，以此类推。
