@@ -120,4 +120,7 @@
 
 
 [LeetCode61 | C++](./cpp/LeetCode61/main.cpp)
-- 移动链表中的元素
+- 移动链表中的元素（旋转链表）
+
+[LeetCode189 | C++](./cpp/LeetCode189/main.cpp)
+- 移动数组中的元素（轮转数组）
