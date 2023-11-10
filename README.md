@@ -124,3 +124,6 @@
 
 [LeetCode189 | C++](./cpp/LeetCode189/main.cpp)
 - 移动数组中的元素（轮转数组）
+
+[LeetCode2300 | C++](./cpp/LeetCode2300/main.cpp)
+- 咒语和药水的成功对数（二分查找）
