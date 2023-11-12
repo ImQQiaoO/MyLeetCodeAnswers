@@ -97,7 +97,7 @@
 [LeetCode274 & 275 | C++](./cpp/LeetCode274/main.cpp)
  - H 指数
 
-[LeetCodeLCP17 | C++](./cpp/LCP17/main.cpp)
+[LeetCodeLCP17 | C++](cpp/LeetCodeLCP17/main.cpp)
 - 签到题
 
 [LeetCode2103 | C++](./cpp/LeetCode2103/main.cpp)
