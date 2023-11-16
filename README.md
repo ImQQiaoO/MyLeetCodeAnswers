@@ -136,3 +136,6 @@
 
 [LeetCode2656 | C++](./cpp/LeetCode2656/main.cpp)
 - K 个元素的最大和 （签到题）最简单的一集
+
+[LeetCode2760 | C++](./cpp/LeetCode2760/main.cpp)
+- 最长奇偶子数组  O(n²)暴力解决，最恶心的一集
