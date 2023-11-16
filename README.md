@@ -139,3 +139,6 @@
 
 [LeetCode2760 | C++](./cpp/LeetCode2760/main.cpp)
 - 最长奇偶子数组  O(n²)暴力解决，最恶心的一集
+
+[LeetCode1624 | C++](./cpp/LeetCode1624/main.cpp)
+- 两个相同字符之间的最长子字符串   ``map``
