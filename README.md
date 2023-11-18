@@ -157,3 +157,6 @@
 
 [LeetCode2806 | C++](./cpp/LeetCode2806/main.cpp)
 - 取整购买后的账户余额 四舍五入 一行解决
+
+[LeetCode1344 | C++](./cpp/LeetCode1344/main.cpp)
+- 时钟指针的夹角 直接计算
