@@ -148,3 +148,8 @@
 
 [LeetCode11 | C++](./cpp/LeetCode11/main.cpp)
 - 接雨水 双指针?
+
+[LeetCode2342 | C++](./cpp/LeetCode2342/main.cpp)
+- 数位和相等数对的最大和 
+  
+  哈希 + 优先级队列 时间复杂度：O(nlogn)
