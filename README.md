@@ -160,3 +160,9 @@
 
 [LeetCode1344 | C++](./cpp/LeetCode1344/main.cpp)
 - 时钟指针的夹角 直接计算
+
+[LeetCode15 | C++](./cpp/LeetCode15/main.cpp)
+- 三数之和  ----未完成
+
+[LeetCode53 | C++](./cpp/LeetCode53/main.cpp)
+- 最大子数组和    贪心
