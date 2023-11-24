@@ -175,3 +175,9 @@
 
 [LeetCode1410 | C++](./cpp/LeetCode1410/main.cpp)
 - HTML 实体解析器  字符串替换 最不优雅的一集，击败人数最少的一集
+
+[LeetCode206 | C++](./cpp/LeetCode206/main.cpp)
+- 反转链表      --206
+
+[LeetCode2824 | C++](./cpp/LeetCode2824/main.cpp)
+- 统计和小于目标的下标对数目 暴力
