@@ -181,3 +181,12 @@
 
 [LeetCode2824 | C++](./cpp/LeetCode2824/main.cpp)
 - 统计和小于目标的下标对数目 暴力
+
+[LeetCode907 | C++](./cpp/LeetCode907/main.cpp)
+- 子数组的最小值之和 抄的，没弄懂
+
+[LeetCode1670 | C++](./cpp/LeetCode1670/main.cpp)
+- 设计前中后队列 最简单的一集
+
+[LeetCode2336 | C++](./cpp/LeetCode2336/main.cpp)
+- 无限集中的最小数字 暴力
