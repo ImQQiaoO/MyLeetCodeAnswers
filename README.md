@@ -190,4 +190,6 @@
 
 [LeetCode2336 | C++](./cpp/LeetCode2336/main.cpp)
 - 无限集中的最小数字 暴力
-test push
+
+[LeetCode1185 | C++](./cpp/LeetCode1185/main.cpp)
+- 一周中的第几天
