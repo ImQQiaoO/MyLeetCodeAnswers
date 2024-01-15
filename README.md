@@ -201,4 +201,7 @@
 - 赎金信   哈希
 
 [LeetCode83 | C++](./cpp/LeetCode83/main.cpp)
-- 有序链表去重~~~~
+- 有序链表去重
+
+[LeetCode82 | C++](./cpp/LeetCode82/main.cpp)
+- 有序链表去重2
