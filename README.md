@@ -208,3 +208,6 @@
 
 [LeetCode2744 | C++](./cpp/LeetCode2744/main.cpp)
 - 最大字符串配对数目
+
+[LeetCode2788 | C++](./cpp/LeetCode2788/main.cpp)
+- 按分隔符拆分字符串
