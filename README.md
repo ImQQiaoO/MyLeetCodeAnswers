@@ -194,9 +194,6 @@
 [LeetCode1185 | C++](./cpp/LeetCode1185/main.cpp)
 - 一周中的第几天
 
-[LeetCode1185 | C++](./cpp/LeetCode1185/main.cpp)
-- 一周中的第几天
-
 [LeetCode383 | C++](./cpp/LeetCode383/main.cpp)
 - 赎金信   哈希
 
@@ -211,3 +208,6 @@
 
 [LeetCode2788 | C++](./cpp/LeetCode2788/main.cpp)
 - 按分隔符拆分字符串
+
+[LeetCode670 | C++](./cpp/LeetCode670/main.cpp)
+- 最大交换
