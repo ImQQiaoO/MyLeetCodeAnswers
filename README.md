@@ -214,3 +214,6 @@
 
 [LeetCode2765 | C++](./cpp/LeetCode2765/main.cpp)
 - 最长交替子数组
+
+[LeetCode2859 | C++](./cpp/LeetCode2859/main.cpp)
+- 计算 K 置位下标对应元素的和
