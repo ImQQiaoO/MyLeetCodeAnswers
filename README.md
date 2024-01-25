@@ -211,3 +211,6 @@
 
 [LeetCode670 | C++](./cpp/LeetCode670/main.cpp)
 - 最大交换
+
+[LeetCode2765 | C++](./cpp/LeetCode2765/main.cpp)
+- 最长交替子数组
