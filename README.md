@@ -223,3 +223,8 @@
 
 - 最小栈
 
+[LeetCode28 | C++](./cpp/LeetCode28/main.cpp)
+
+- 找出字符串中第一个匹配项的下标 KMP
+
+[LeetCode977 | C++](./cpp/LeetCode977/main.cpp)
