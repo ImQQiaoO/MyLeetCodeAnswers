@@ -9,6 +9,7 @@ cpp/*/.vscode
 cpp/*/*.exe
 cpp/*/.vs
 cpp/*/out
+cpp/*/.cache
 python/*/.idea
 python/*/venv
 main

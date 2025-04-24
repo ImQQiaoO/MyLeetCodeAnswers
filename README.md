@@ -228,3 +228,7 @@
 - 找出字符串中第一个匹配项的下标 KMP
 
 [LeetCode977 | C++](./cpp/LeetCode977/main.cpp)
+
+[LeetCode2181 | C++](./cpp/LeetCode2181/main.cpp)
+
+- 简简单单链表
